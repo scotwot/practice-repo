@@ -1,2 +1,3 @@
 # practice-repo
-freecodecamp - git &amp; github for beginners - crash course
+freecodecamp - git &amp; github for beginners
+- crash course
